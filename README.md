@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem vindos ao meu perfil! 🤍
 
-<!--
-**ABELISA1H/ABELISA1H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Elisa Basso
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contado comigo 📫
+
+00001126891575SP@al.educacao.sp.gov.br
+
+@elisah_sbasso
+
+
+![image](https://github.com/user-attachments/assets/1ef5ad01-1dc0-493c-bd1d-183b2ee133b2)
